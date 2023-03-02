@@ -25,7 +25,6 @@ Embedded System Application using External Interrupt, Timer, and 7-Segment Based
 ```
 git clone https://github.com/AhmedTorres2000/Stop-Watch.git
 ```
-
 ## License <a name="license"></a>
 
 > This software is licensed under MIT License,
