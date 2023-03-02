@@ -25,9 +25,6 @@ Embedded System Application using External Interrupt, Timer, and 7-Segment Based
 ```
 git clone https://github.com/AhmedTorres2000/Stop-Watch.git
 ```
-#### Demo Video
-![demo](StopWatch.gif)
-
 
 ## License <a name="license"></a>
 
