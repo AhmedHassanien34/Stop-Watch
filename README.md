@@ -21,5 +21,5 @@ Embedded System Application using External Interrupt, Timer, and 7-Segment Based
 * Proteus Software 
 
 ## proteus
-<img src="Stop Watch.gif">
+<img src="Stop Watch.png">
 
