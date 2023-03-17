@@ -20,3 +20,6 @@ Embedded System Application using External Interrupt, Timer, and 7-Segment Based
 * AVR Microcontroller (ATMega16)
 * Proteus Software 
 
+## proteus
+<img src="Stop Watch.gif">
+
